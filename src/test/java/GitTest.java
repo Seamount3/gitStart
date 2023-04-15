@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("少时诵诗书");
         System.out.println("仰天大笑出门去,我辈岂是蓬蒿人!");
         System.out.println("两岸猿声啼不住,轻舟已过万重山");
+        System.out.println("桃花潭水深千尺,不及汪伦送我情!");
     }
 }
