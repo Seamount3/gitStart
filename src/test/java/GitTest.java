@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("两岸猿声啼不住,轻舟已过万重山");
         System.out.println("桃花潭水深千尺,不及汪伦送我情!");
         System.out.println("金樽清酒斗十千,玉盘珍馐值万钱");
+        System.out.println("乘风破浪会有时,直挂云帆济沧海!");
     }
 }
